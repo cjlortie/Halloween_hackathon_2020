@@ -16,6 +16,7 @@ Candy, candy, candy!!
 ```{r}
 library(tidyverse)
 #library(gsheet)
+candy <- read_csv("data/candy_2020.csv")
 
 ```
 
